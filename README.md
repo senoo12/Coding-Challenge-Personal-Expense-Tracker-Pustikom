@@ -3,7 +3,8 @@
 ## Testing Project:
 1. Clone the repository.<br>
    git clone https://github.com/senoo12/Coding-Challenge-Personal-Expense-Tracker-Pustikom.git<br>
-   cd Coding-Challenge-Personal-Expense-Tracker-Pustikom
+   cd Coding-Challenge-Personal-Expense-Tracker-Pustikom <br>
+   cd pustikom
 2. Create Virtual Env.<br>
    python -m venv venv<br>
    venv\Scripts\activate       # Windows <br>
