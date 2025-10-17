@@ -10,12 +10,14 @@
    source venv/bin/activate    # macOS / Linux
 3. Install the Dependencies<br>
    pip install -r requirements.txt
-4. Create Migrations<br>
+4. Import Database on Local Server.<br>
+   name of database: db_pustikom
+6. Create Migrations<br>
    py manage.py makemigrations<br>
    py manage.py migrate
-5. Running the server<br>
+7. Running the server<br>
    python manage.py runserver
-6. Web Server:<br>
+8. Web Server:<br>
    http://127.0.0.1:8000/api/expenses/
 
   ## End Point Testing:<br>
