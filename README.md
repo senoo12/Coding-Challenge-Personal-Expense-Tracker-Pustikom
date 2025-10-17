@@ -1,6 +1,6 @@
 # Coding-Challenge-Personal-Expense-Tracker-Pustikom
 
-Testing Project:
+## Testing Project:
 1. Clone the repository.<br>
    git clone https://github.com/senoo12/Coding-Challenge-Personal-Expense-Tracker-Pustikom.git<br>
    cd Coding-Challenge-Personal-Expense-Tracker-Pustikom
@@ -18,7 +18,7 @@ Testing Project:
 6. Web Server:<br>
    http://127.0.0.1:8000/api/expenses/
 
-  End Point Testing:<br>
+  ## End Point Testing:<br>
   GET - /api/expenses/ <br>
   GET ID - /api/expenses/{id} <br>
   GET DATA BY CATEGORY - /api/expenses/?category={category} <br>
