@@ -6,7 +6,7 @@
    cd Coding-Challenge-Personal-Expense-Tracker-Pustikom
 2. Create Virtual Env.<br>
    python -m venv venv<br>
-   venv\Scripts\activate<br>       # Windows
+   venv\Scripts\activate       # Windows <br>
    source venv/bin/activate    # macOS / Linux
 3. Install the Dependencies<br>
    pip install -r requirements.txt
