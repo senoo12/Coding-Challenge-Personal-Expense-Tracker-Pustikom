@@ -20,6 +20,18 @@
    python manage.py runserver
 8. Web Server:<br>
    http://127.0.0.1:8000/api/expenses/
+9. Add Data: <br>
+   Fill the form and submiy the button.
+11. Get Data with Filtering:<br>
+    Use button filtering and choose the category.
+12. Edit Data: <br>
+    Go to the specific url, with example: /api/expenses/{id} <br>
+    Change the data with the form.
+13. Delete Data: <br>
+    Go to the specific url, with example: /api/expenses/{id} <br>
+    Touch the button 'delete'. 
+
+    
 
   ## End Point Testing:<br>
   GET - /api/expenses/ <br>
